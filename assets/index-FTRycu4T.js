@@ -63,7 +63,7 @@ Error generating stack: `+d.message+`
                       transition
                       hover:bg-blue-500/20 hover:-translate-y-0.5
                       hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)]
-                    `,children:s},e))}),z.jsx("div",{className:"flex justify-between items-center",children:z.jsx("a",{href:"#",className:"text-blue-400 hover:text-blue-300 transition-colors my-4",children:"View Project →"})})]}),z.jsxs("div",{className:`
+                    `,children:s},e))}),z.jsx("div",{className:"flex justify-between items-center",children:z.jsx("a",{href:"https://github.com/karthikeya21/vaccine-management-registration-sys",className:"text-blue-400 hover:text-blue-300 transition-colors my-4",children:"View Project →"})})]}),z.jsxs("div",{className:`
               glass p-6 rounded-xl border border-white/10 
               hover:-translate-y-1 hover:border-blue-500/30
               hover:shadow-[0_4px_20px_rgba(59,130,246,0.1)]
