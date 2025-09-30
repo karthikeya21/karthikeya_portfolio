@@ -8,7 +8,7 @@ https://karthikeya21.github.io/karthikeya_portfolio
 
 ## Features
 
-- **Modern Design:** Clean, SaaS-inspired design with a glass-effect navbar and sleek animations.
+- **Modern Design:** Clean design with a beautiful background and sleek animations.
 - **Responsive Layout:** Fully responsive across desktop, tablet, and mobile devices.
 - **Interactive Components:** Animated sections and a mobile-friendly hamburger menu with smooth transitions.
 - **Optimized Performance:** Fast development build using Vite with TailwindCSS for efficient styling.
